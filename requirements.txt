@@ -1,0 +1,10 @@
+kagglehub
+pandas
+numpy
+scikit-learn
+nltk
+transformers
+torch
+flask
+flask-cors
+requests
